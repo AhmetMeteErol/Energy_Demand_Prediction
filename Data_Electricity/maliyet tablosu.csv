@@ -1,0 +1,13 @@
+Ressources;Valeur_attendu_emission_kg_MWh;ecart_type_valeur_attendu_emission;Cout_carburant_Mwh_$;ecart_type_cout_carburant_attendu;cout_attendu_exploitation_maintenance;ecart_type_cout_attendu_exploitation_maintenance;inv_attendu_$_MW ;ecart_type_inv_attendu$_MW 
+Gaz naturel ;514.82734;2157.103875;30;3.9;20000;0;2450000;208250
+lignite ;964.9270487;112.2187523;60.4;14.6;40000;0;4113000;349605
+charbon importé;996.2249222;112.2187523;73;14.6;30000;0;4113000;349605
+charbon Turque;1020.12924;112.2187523;50;14.6;30000;0;4113000;349605
+nucleaire ;0;0;12.1;1.01;90000;0;1E+22;0
+soleil;0;0;0;0;15000;0;810000;68850
+éolienne;0;0;0;0;15000;0;1590000;135150
+éolien en mer;0;0;0;0;15000;0;3040000;258400
+géothermale;0;0;0;0;40000;0;3000000;255000
+biomasse ;0;0;41.5;3.9;40000;0;2599000;220915
+hydroéléctrique;0;0;0;0;10000;0;1350000;114750
+fuel-oil;601.0098903;66.17005494;58.8;4.9;30000;0;1280000;108800
